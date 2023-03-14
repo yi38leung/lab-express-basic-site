@@ -1,0 +1,50 @@
+body {
+  background-color: burlywood;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+nav a {
+  padding: 0 10px;
+}
+
+#home-img {
+  max-height: 350px;
+  width: auto;
+  border: 20px solid darkred;
+}
+
+#about-p {
+  width: 50vw;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+#about-her {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.about-section {
+  width: 40vw;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img {
+  width: 30vw;
+  border: 25px solid black;
+}
+
+#sag-award-img {
+  border: 25px solid goldenrod;
+}
